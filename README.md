@@ -10,4 +10,13 @@ This section includes structured exercises that cover key topics of OOP. Each la
 
 This section contains various homework assignments related to Object-Oriented Programming. These tasks allow you to apply OOP principles in real-world coding scenarios, reinforcing your learning.
 
+---
 
+
+---
+
+### 👨‍💻 Author
+
+**Daniel Olivar**  
+Computer Engineer
+[GitHub: @DanielOlivar](https://github.com/DanielOlivar)
